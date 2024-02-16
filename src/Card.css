@@ -1,0 +1,29 @@
+.card{
+  max-width: 300px;
+  box-shadow: 0 4px 8px 0 rgb(0, 0, 0,0.2);
+    text-align: center;
+    margin: 2rem auto;
+}
+.price{
+    color: gray;
+}
+.add{
+    background-color: black;
+   
+    align-content: center;
+    
+}
+.card  button{
+    background-color: transparent;
+    color: white;
+    border: none;
+    outline: 0;
+    width: 100%;
+    cursor: pointer;
+    padding: 12px;
+    text-align: center;
+}
+.add :hover{
+    background-color: #dce26b;
+    color: black;
+}
